@@ -1,5 +1,6 @@
-###### I hate python. 
-# CryptoCoinCapChecker
+###### I hate python.
+
+# Crypto Coin Cap Checker
 This only works if you have the Edge browser installed!
 
 Creates a edgeService with EdgeChromiumDriverManager to get items with expected_conditions over a URL
