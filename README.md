@@ -1,4 +1,4 @@
-#####I hate python. 
+#### I hate python. 
 # CryptoCoinCapChecker
 This only works if you have the Edge browser installed!
 
